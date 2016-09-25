@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class ___FILEBASENAMEASIDENTIFIER___ : UITableViewController {
+class ___FILEBASENAMEASIDENTIFIER___: UITableViewController {
 
     // MARK: - Properties
 

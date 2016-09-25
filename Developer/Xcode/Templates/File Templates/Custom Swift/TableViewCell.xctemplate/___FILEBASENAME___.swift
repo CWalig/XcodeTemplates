@@ -11,7 +11,7 @@ import UIKit
 
 let ___FILEBASENAMEASIDENTIFIER___ReuseIdentifier = "___FILEBASENAMEASIDENTIFIER___"
 
-class ___FILEBASENAMEASIDENTIFIER___ : UITableViewCell {
+class ___FILEBASENAMEASIDENTIFIER___: UITableViewCell {
     
     // MARK: - Variables    
 

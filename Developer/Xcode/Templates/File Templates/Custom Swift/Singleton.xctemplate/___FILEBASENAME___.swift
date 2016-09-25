@@ -9,7 +9,7 @@
 import Foundation
 
 class ___FILEBASENAMEASIDENTIFIER___ {
-
+    
     static let sharedInstance = ___FILEBASENAMEASIDENTIFIER___()
 
     // MARK: - Initializers
